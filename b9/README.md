@@ -1,3 +1,5 @@
+#Sorry por el pull req
+
 # Guardando las reglas de iptables
 
 Las reglas de iptables que escribimos en la línea de comandos se pasan
